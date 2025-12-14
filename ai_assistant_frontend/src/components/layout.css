@@ -1,0 +1,10 @@
+.layout-root {
+  display: flex;
+  min-height: 100vh;
+  background: var(--background);
+}
+
+.layout-content {
+  flex: 1;
+  padding: 24px;
+}
